@@ -27,4 +27,4 @@
 - [Али Юсифов](https://github.com/Im-Ali)(@aliwwwka.03) -
 
 ## Лизенция
-Данный проект использует лицензию [MIT](https://github.com/akashiko/DSPwebApp/blob/master/LICENSE).
+Данный проект использует лицензию [MIT](https://github.com/WordyArc/DSPwebApp/blob/master/LICENSE).
